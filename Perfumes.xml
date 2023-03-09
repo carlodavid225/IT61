@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Perfumes>
+	<Perfume id="1">
+		<brand>Penshoppe</brand>
+		<name>Hustle Night Eau de Toilette</name>
+		<color>Black</color>
+		<price>₱314</price>
+		<lastingScent>8 to 10 hours</lastingScent>
+		<size>
+		    <milliLiter>50ml</milliLiter>
+		</size>
+		<shelflife>3years</shelflife>
+		<manufactured>Golden ABC, Inc, Metro Manila, Philippines</manufactured>
+		<expiryDate>
+			<year>2030</year>
+			<month>February</month> 
+			<date>10</date> 
+		</expiryDate>
+		<productDescription>Be bold, vibrant, and free!</productDescription>
+	</Perfume>
+
+<Perfume id="2">
+		<brand>Penshoppe</brand>
+		<name>Lovestory Eau De Toilette</name>
+		<color>Gray</color>
+		<price>₱299</price>
+		<lastingScent>8 to 10 hours</lastingScent>
+		<size>
+		    <milliLiter>50ml</milliLiter>
+		</size>
+		<shelflife>3years</shelflife>
+		<manufactured>Golden ABC, Inc, Metro Manila, Philippines</manufactured>
+		<expiryDate>
+			<year>2030</year>
+			<month>February</month> 
+			<date>10</date> 
+		</expiryDate>
+		<productDescription>Fall in love with the perfect pair of long-lasting scents</productDescription>
+	</Perfume>
+
+<Perfume id="3">
+		<brand>versace</brand>
+		<name>versace eros</name>
+		<color>Black</color>
+		<price>₱5,995</price>
+		<lastingScent>up to 8 hours</lastingScent>
+		<size>
+		    <milliLiter>100ml</milliLiter>
+		</size>
+		<shelflife>1years</shelflife>
+		<manufactured>Aurelien Guichard of Givaudan</manufactured>
+		<expiryDate>
+			<year>2026</year>
+			<month>February</month> 
+			<date>10</date> 
+		</expiryDate>
+		<productDescription>The new perfume Eros is the first in the past five years to be launched and aimed at men. Donatella Versace's desire was to fit the fragrance into the concept of theVersace brand and to depict style and significance of long-lasting design</productDescription>
+	</Perfume>
+
+<Perfume id="4">
+		<brand>Dior</brand>
+		<name>SAUVAGE EAU DE TOILETTE</name>
+		<color>Blue</color>
+		<price>₱4,950 to ₱6,650</price>
+		<lastingScent>8 to 10 hours</lastingScent>
+		<size>
+		    <milliLiter>100ml</milliLiter>
+		</size>
+		<shelflife>3years</shelflife>
+		<manufactured>Dior factory in Saint Jean de Braye in France</manufactured>
+		<expiryDate>
+			<year>2027</year>
+			<month>February</month> 
+			<date>10</date> 
+		</expiryDate>
+		<productDescription>A radically fresh composition, Sauvage is both raw and noble. Radiant top notes burst with the juicy freshness of Calabrian bergamot, while amberwood unleashes a powerfully woody trail</productDescription>
+	</Perfume>
+
+<Perfume id="5">
+		<brand>Penshoppe</brand>
+		<name>Pumped Blue Eau De Toilette</name>
+		<color>Blue</color>
+		<price>₱349</price>
+		<lastingScent>8 to 10 hours</lastingScent>
+		<size>
+		    <milliLiter>100ml</milliLiter>
+		</size>
+		<shelflife>3years</shelflife>
+		<manufactured>Golden ABC, Inc, Metro Manila, Philippines</manufactured>
+		<expiryDate>
+			<year>2027</year>
+			<month>February</month> 
+			<date>10</date> 
+		</expiryDate>
+		<productDescription>The scent opens with Bergamot, Citrus, Green, Ozone, and Aldehyde notes with Floral, Ylang-Ylang, Jasmin, and Rosewood notes, bathed by the fragrance of Wood, Cedarwood, Animal, Musk, and Amber.</productDescription>
+	</Perfume>
+
+</Perfumes>
